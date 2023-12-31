@@ -1,6 +1,6 @@
 # Knesset Analysis
 
-A final project for the "Dynamic Networks and NLP" course, by Gal Astrach and Guy Barel.
+A final project for the "Dynamic Networks and NLP" course, by Guy Barel and Gal Astrach.
 
 Explanation of the code:
 
